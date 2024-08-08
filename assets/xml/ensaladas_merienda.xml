@@ -1,0 +1,65 @@
+<ensaladas>
+    <ensalada>
+        <id>21</id>
+        <nombre>Ensalada de Espinacas y Fresas</nombre>
+        <ingredientes>Espinacas, Fresas, Almendras, Queso de cabra, Aderezo balsámico</ingredientes>
+        <valores_nutricionales>Calorías: 200, Proteínas: 6g, Carbohidratos: 20g, Grasas: 12g</valores_nutricionales>
+        <preparacion>Mezclar todos los ingredientes y aderezar con aderezo balsámico.</preparacion>
+        <precio>5.00</precio>
+        <url>https://www.comedera.com/wp-content/uploads/2023/02/ensalada-de-fresas-nueces-espinacas.jpg</url>
+    </ensalada>
+    <ensalada>
+        <id>22</id>
+        <nombre>Ensalada de Kale y Quinoa</nombre>
+        <ingredientes>Kale, Quinoa, Pepino, Zanahoria, Aderezo de tahini</ingredientes>
+        <valores_nutricionales>Calorías: 250, Proteínas: 8g, Carbohidratos: 35g, Grasas: 10g</valores_nutricionales>
+        <preparacion>Mezclar todos los ingredientes y aderezar con aderezo de tahini.</preparacion>
+        <precio>6.00</precio>
+        <url>https://www.mariaperezmunoz.com/wordpres/wp-content/uploads/2017/04/Ensalada-de-kale-y-quinoa.jpg</url>
+    </ensalada>
+    <ensalada>
+        <id>23</id>
+        <nombre>Ensalada de Brócoli y Almendras</nombre>
+        <ingredientes>Brócoli, Almendras, Pasas, Yogur, Miel</ingredientes>
+        <valores_nutricionales>Calorías: 300, Proteínas: 10g, Carbohidratos: 25g, Grasas: 18g</valores_nutricionales>
+        <preparacion>Mezclar todos los ingredientes y aderezar con yogur y miel.</preparacion>
+        <precio>5.50</precio>
+        <url>https://d36fw6y2wq3bat.cloudfront.net/recipes/bowl-de-brocoli-con-almendras-y-pasas/900/bowl-de-brocoli-con-almendras-y-pasas_version_1651568722.jpg</url>
+    </ensalada>
+    <ensalada>
+        <id>24</id>
+        <nombre>Ensalada de Espárragos y Tomates</nombre>
+        <ingredientes>Espárragos, Tomate cherry, Queso parmesano, Aceite de oliva, Limón</ingredientes>
+        <valores_nutricionales>Calorías: 200, Proteínas: 6g, Carbohidratos: 15g, Grasas: 12g</valores_nutricionales>
+        <preparacion>Mezclar todos los ingredientes y aderezar con aceite de oliva y limón.</preparacion>
+        <precio>5.00</precio>
+        <url>https://d36fw6y2wq3bat.cloudfront.net/recipes/esparragos-verdes-con-tomates-cherry-y-mozzarella/900/esparragos-verdes-con-tomates-cherry-y-mozzarella_version_1652876017.jpg</url>
+    </ensalada>
+    <ensalada>
+        <id>25</id>
+        <nombre>Ensalada de Col Rizada y Naranja</nombre>
+        <ingredientes>Col rizada, Naranja, Nueces, Queso azul, Aderezo de naranja</ingredientes>
+        <valores_nutricionales>Calorías: 250, Proteínas: 7g, Carbohidratos: 20g, Grasas: 15g</valores_nutricionales>
+        <preparacion>Mezclar todos los ingredientes y aderezar con aderezo de naranja.</preparacion>
+        <precio>5.50</precio>
+        <url>https://www.justspices.es/media/recipe/5DD9F31A-A45D-46A6-A831-04BD35B30B38.jpeg</url>
+    </ensalada>
+    <ensalada>
+        <id>26</id>
+        <nombre>Ensalada de Remolacha y Queso de Cabra</nombre>
+        <ingredientes>Remolacha cocida, Queso de cabra, Nueces, Espinacas, Aderezo de vinagreta</ingredientes>
+        <valores_nutricionales>Calorías: 280, Proteínas: 8g, Carbohidratos: 25g, Grasas: 18g</valores_nutricionales>
+        <preparacion>Mezclar todos los ingredientes y aderezar con vinagreta.</preparacion>
+        <precio>6.00</precio>
+        <url>https://www.hola.com/horizon/landscape/a9b7241b58bc-ensalada-pistacho-adobe-t.jpg</url>
+    </ensalada>
+    <ensalada>
+        <id>27</id>
+        <nombre>Ensalada de Mango y Pollo</nombre>
+        <ingredientes>Lechuga, Pollo a la parrilla, Mango, Aguacate, Aderezo de lima</ingredientes>
+        <valores_nutricionales>Calorías: 350, Proteínas: 25g, Carbohidratos: 30g, Grasas: 15g</valores_nutricionales>
+        <preparacion>Mezclar todos los ingredientes y aderezar con aderezo de lima.</preparacion>
+        <precio>7.00</precio>
+        <url>https://i.blogs.es/e7e92c/ensalada-mango-prueba/650_1200.jpg</url>
+    </ensalada>
+</ensaladas>

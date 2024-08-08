@@ -1,0 +1,92 @@
+<ensaladas>
+    <ensalada>
+        <id>11</id>
+        <nombre>Ensalada de Frutas</nombre>
+        <ingredientes>Manzana, Banana, Fresas, Yogur, Miel</ingredientes>
+        <valores_nutricionales>Calorías: 200, Proteínas: 5g, Carbohidratos: 40g, Grasas: 3g</valores_nutricionales>
+        <preparacion>Cortar las frutas y mezclarlas con yogur y miel.</preparacion>
+        <precio>3.50</precio>
+        <url>https://img.freepik.com/foto-gratis/vista-superior-sabrosa-ensalada-frutas-diferentes-frutas-sobre-fondo-blanco_140725-142053.jpg</url>
+    </ensalada>
+    <ensalada>
+        <id>12</id>
+        <nombre>Ensalada de Espinaca y Huevo</nombre>
+        <ingredientes>Espinaca, Huevo cocido, Tomate cherry, Queso feta, Aceite de oliva</ingredientes>
+        <valores_nutricionales>Calorías: 250, Proteínas: 12g, Carbohidratos: 10g, Grasas: 18g</valores_nutricionales>
+        <preparacion>Mezclar los ingredientes y aderezar con aceite de oliva.</preparacion>
+        <precio>4.00</precio>
+        <url>https://www.comedera.com/wp-content/uploads/2022/09/ensalada-de-espinacas-con-huevo.jpg</url>
+    </ensalada>
+    <ensalada>
+        <id>13</id> 
+        <nombre>Ensalada de Quinoa y Frutas</nombre>
+        <ingredientes>Quinoa, Arándanos, Naranjas, Menta, Miel</ingredientes>
+        <valores_nutricionales>Calorías: 220, Proteínas: 6g, Carbohidratos: 45g, Grasas: 4g</valores_nutricionales>
+        <preparacion>Cocinar la quinoa y mezclar con las frutas y la miel.</preparacion>
+        <precio>5.00</precio>
+        <url>https://www.isabel.net/wp-content/uploads/2019/06/Ensalada-quinoa-fresas1920x1080.jpg</url>
+    </ensalada>
+    <ensalada>
+        <id>14</id>
+        <nombre>Ensalada de Aguacate y Mango</nombre>
+        <ingredientes>Aguacate, Mango, Espinaca, Almendras, Limón</ingredientes>
+        <valores_nutricionales>Calorías: 270, Proteínas: 4g, Carbohidratos: 30g, Grasas: 20g</valores_nutricionales>
+        <preparacion>Mezclar todos los ingredientes y aderezar con limón.</preparacion>
+        <precio>6.00</precio>
+        <url>https://lacocinadefrabisa.lavozdegalicia.es/wp-content/uploads/2015/01/ensalada-aguacate-mango-frabisa-1.jpg</url>
+    </ensalada>
+    <ensalada>
+        <id>15</id>
+        <nombre>Ensalada de Yogur y Granola</nombre>
+        <ingredientes>Yogur, Granola, Miel, Frutas frescas</ingredientes>
+        <valores_nutricionales>Calorías: 300, Proteínas: 10g, Carbohidratos: 50g, Grasas: 8g</valores_nutricionales>
+        <preparacion>Mezclar el yogur con granola y frutas frescas, y añadir miel.</preparacion>
+        <precio>3.75</precio>
+        <url>https://recetadiariablog.wordpress.com/wp-content/uploads/2016/02/img_2278.jpg?w=2000&h=1500&crop=1</url>
+    </ensalada>
+    <ensalada>
+        <id>16</id>
+        <nombre>Ensalada de Naranja y Almendras</nombre>
+        <ingredientes>Naranjas, Almendras, Espinaca, Queso de cabra, Miel</ingredientes>
+        <valores_nutricionales>Calorías: 240, Proteínas: 6g, Carbohidratos: 30g, Grasas: 12g</valores_nutricionales>
+        <preparacion>Mezclar todos los ingredientes y aderezar con miel.</preparacion>
+        <precio>4.25</precio>
+        <url>https://blogs.publico.es/recetas-caseras-nutricion-saludable/files/2021/01/ensalada-naranja-almendras.jpg</url>
+    </ensalada>
+    <ensalada>
+        <id>17</id>
+        <nombre>Ensalada de Manzana y Nueces</nombre>
+        <ingredientes>Manzana, Nueces, Espinaca, Yogur, Miel</ingredientes>
+        <valores_nutricionales>Calorías: 260, Proteínas: 5g, Carbohidratos: 35g, Grasas: 12g</valores_nutricionales>
+        <preparacion>Cortar la manzana y mezclar con los demás ingredientes.</preparacion>
+        <precio>4.00</precio>
+        <url>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhLZaHmlTUM_0q-1PzXy1aJPRra2s4KqqlKL4kNJkSl0h0NIwk43hQuCy1A6XNWs0Q0-g&usqp=CAU</url>
+    </ensalada>
+    <ensalada>
+        <id>18</id>
+        <nombre>Ensalada de Piña y Coco</nombre>
+        <ingredientes>Piña, Coco rallado, Espinaca, Almendras, Yogur</ingredientes>
+        <valores_nutricionales>Calorías: 280, Proteínas: 4g, Carbohidratos: 45g, Grasas: 10g</valores_nutricionales>
+        <preparacion>Mezclar todos los ingredientes y aderezar con yogur.</preparacion>
+        <precio>4.50</precio>
+        <url>https://veggiefestchicago.org/wp-content/uploads/2018/10/pina-colada-fruit-salad-recipe.jpg</url>
+    </ensalada>
+    <ensalada>
+        <id>19</id>
+        <nombre>Ensalada de Kiwi y Fresas</nombre>
+        <ingredientes>Kiwi, Fresas, Espinaca, Queso cottage, Miel</ingredientes>
+        <valores_nutricionales>Calorías: 240, Proteínas: 8g, Carbohidratos: 35g, Grasas: 8g</valores_nutricionales>
+        <preparacion>Cortar las frutas y mezclar con espinaca y queso cottage.</preparacion>
+        <precio>4.25</precio>
+        <url>https://www.recetasnestle.com.ar/sites/default/files/srh_recipes/5185cfc7b301cb7aae8b3d25001d06a6.jpg</url>
+    </ensalada>
+    <ensalada>
+        <id>20</id>
+        <nombre>Ensalada de Melón y Jamón</nombre>
+        <ingredientes>Melón, Jamón serrano, Espinaca, Queso mozzarella, Menta</ingredientes>
+        <valores_nutricionales>Calorías: 280, Proteínas: 12g, Carbohidratos: 20g, Grasas: 15g</valores_nutricionales>
+        <preparacion>Mezclar todos los ingredientes y decorar con menta.</preparacion>
+        <precio>5.00</precio>
+        <url>https://img-global.cpcdn.com/recipes/6e3ab4d62fb1b40a/1200x630cq70/photo.jpg</url>
+    </ensalada>
+</ensaladas>

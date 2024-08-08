@@ -1,0 +1,92 @@
+<ensaladas>
+    <ensalada>
+        <id>1</id>
+        <nombre>Ensalada César</nombre>
+        <ingredientes>Lechuga romana, Pollo a la parrilla, Crutones, Queso parmesano, Aderezo César</ingredientes>
+        <valores_nutricionales>Calorías: 400, Proteínas: 30g, Carbohidratos: 20g, Grasas: 20g</valores_nutricionales>
+        <preparacion>Mezclar todos los ingredientes y aderezar con el aderezo César.</preparacion>
+        <precio>7.00</precio>
+        <url>https://www.recetasnestle.cl/sites/default/files/styles/recipe_detail_desktop/public/srh_recipes/3a5e42e262ec4394def6f80a9cc038b4.jpg?itok=1fWwwM0f</url>
+    </ensalada>
+    <ensalada>
+        <id>2</id>
+        <nombre>Ensalada de Atún</nombre>
+        <ingredientes>Lechuga, Atún, Tomate, Cebolla, Aceitunas, Aderezo de limón</ingredientes>
+        <valores_nutricionales>Calorías: 350, Proteínas: 25g, Carbohidratos: 15g, Grasas: 18g</valores_nutricionales>
+        <preparacion>Mezclar todos los ingredientes y aderezar con limón.</preparacion>
+        <precio>6.50</precio>
+        <url>https://i.ytimg.com/vi/zl6HSCJ6JeE/maxresdefault.jpg</url>
+    </ensalada>
+    <ensalada>
+        <id>3</id>
+        <nombre>Ensalada de Pollo y Aguacate</nombre>
+        <ingredientes>Lechuga, Pollo a la parrilla, Aguacate, Tomate cherry, Aderezo ranch</ingredientes>
+        <valores_nutricionales>Calorías: 450, Proteínas: 35g, Carbohidratos: 20g, Grasas: 25g</valores_nutricionales>
+        <preparacion>Mezclar todos los ingredientes y aderezar con aderezo ranch.</preparacion>
+        <precio>7.50</precio>
+        <url>https://okdiario.com/img/2019/08/10/receta-de-ensalada-con-aguacate-y-pollo-asado-1-655x368.jpg</url>
+    </ensalada>
+    <ensalada>
+        <id>4</id>
+        <nombre>Ensalada Griega</nombre>
+        <ingredientes>Lechuga, Pepino, Tomate, Cebolla roja, Aceitunas, Queso feta, Aderezo griego</ingredientes>
+        <valores_nutricionales>Calorías: 300, Proteínas: 10g, Carbohidratos: 20g, Grasas: 20g</valores_nutricionales>
+        <preparacion>Mezclar todos los ingredientes y aderezar con aderezo griego.</preparacion>
+        <precio>6.00</precio>
+        <url>https://i.ytimg.com/vi/xMchkLG-yyI/maxresdefault.jpg</url>
+    </ensalada>
+    <ensalada>
+        <id>5</id>
+        <nombre>Ensalada Caprese</nombre>
+        <ingredientes>Tomate, Queso mozzarella, Albahaca, Aceite de oliva, Balsámico</ingredientes>
+        <valores_nutricionales>Calorías: 250, Proteínas: 15g, Carbohidratos: 10g, Grasas: 18g</valores_nutricionales>
+        <preparacion>Alternar rodajas de tomate y mozzarella, decorar con albahaca y aderezar con aceite de oliva y balsámico.</preparacion>
+        <precio>5.50</precio>
+        <url>https://i.blogs.es/2d572b/caprese/1366_2000.jpg</url>
+    </ensalada>
+    <ensalada>
+        <id>6</id>
+        <nombre>Ensalada de Pasta</nombre>
+        <ingredientes>Pasta cocida, Tomate cherry, Pepino, Aceitunas, Queso feta, Aderezo italiano</ingredientes>
+        <valores_nutricionales>Calorías: 400, Proteínas: 12g, Carbohidratos: 60g, Grasas: 15g</valores_nutricionales>
+        <preparacion>Mezclar todos los ingredientes y aderezar con aderezo italiano.</preparacion>
+        <precio>6.50</precio>
+        <url>https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/c095dfd2-faa7-4ec8-8a90-08e779072ec1/Derivates/1a40601f-c02a-410d-90c4-487c4804dfa7.jpg</url>
+    </ensalada>
+    <ensalada>
+        <id>7</id>
+        <nombre>Ensalada de Garbanzos</nombre>
+        <ingredientes>Garbanzos cocidos, Tomate, Pepino, Cebolla, Perejil, Aderezo de limón</ingredientes>
+        <valores_nutricionales>Calorías: 350, Proteínas: 15g, Carbohidratos: 50g, Grasas: 10g</valores_nutricionales>
+        <preparacion>Mezclar todos los ingredientes y aderezar con limón.</preparacion>
+        <precio>5.75</precio>
+        <url>https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/C262961A-CE1B-477B-875C-21842769AD86/Derivates/39F9A1E8-2D77-4522-8659-25F9E41D00D7.jpg</url>
+    </ensalada>
+    <ensalada>
+        <id>8</id>
+        <nombre>Ensalada de Salmón</nombre>
+        <ingredientes>Lechuga, Salmón ahumado, Aguacate, Pepino, Aderezo de eneldo</ingredientes>
+        <valores_nutricionales>Calorías: 400, Proteínas: 25g, Carbohidratos: 10g, Grasas: 28g</valores_nutricionales>
+        <preparacion>Mezclar todos los ingredientes y aderezar con eneldo.</preparacion>
+        <precio>8.00</precio>
+        <url>https://cocinaconnoelia.com/wp-content/uploads/2023/11/Corona-de-ensalada-con-salmon-marinado-scaled.jpg</url>
+    </ensalada>
+    <ensalada>
+        <id>9</id>
+        <nombre>Ensalada de Quinoa y Pollo</nombre>
+        <ingredientes>Quinoa, Pollo a la parrilla, Tomate, Pepino, Aderezo de limón</ingredientes>
+        <valores_nutricionales>Calorías: 450, Proteínas: 30g, Carbohidratos: 50g, Grasas: 15g</valores_nutricionales>
+        <preparacion>Mezclar todos los ingredientes y aderezar con limón.</preparacion>
+        <precio>7.00</precio>
+        <url>https://d36fw6y2wq3bat.cloudfront.net/recipes/ensalada-de-quinua-y-pollo/900/ensalada-de-quinua-y-pollo.jpg</url>
+    </ensalada>
+    <ensalada>
+        <id>10</id>
+        <nombre>Ensalada de Frijoles Negros</nombre>
+        <ingredientes>Frijoles negros cocidos, Maíz, Pimiento, Tomate, Cebolla, Aderezo de cilantro y lima</ingredientes>
+        <valores_nutricionales>Calorías: 350, Proteínas: 12g, Carbohidratos: 60g, Grasas: 8g</valores_nutricionales>
+        <preparacion>Mezclar todos los ingredientes y aderezar con cilantro y lima.</preparacion>
+        <precio>5.50</precio>
+        <url>https://img-global.cpcdn.com/recipes/dcd501d114528af8/680x482cq70/ensaladas-de-porotos-negros-foto-principal.jpg</url>
+    </ensalada>
+</ensaladas>
